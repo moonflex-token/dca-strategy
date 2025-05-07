@@ -32,22 +32,21 @@ For full license terms, see [LICENSE.md](LICENSE.md).
 
 ---
 
-## How to Use
+## How to Use the Flex 
+
+<img width="959" alt="Screenshot 2025-05-07 045506" src="https://github.com/user-attachments/assets/fa4d8641-bfe9-446b-9b3f-ee34da87be16" />
 
 1. **Download the Executable**:
-   - Download the `.exe` file from the [releases page](https://github.com/your-username/dca-strategy/releases).
+   - Download the `.exe` file from the [releases page]([https://github.com/your-username/dca-strategy/releases](https://github.com/moonflex-token/dca-strategy/releases/tag/v1.0.0-beta)).
    
-2. **Configure Your Wallet**:
-   - The bot requires your **XRPL wallet** information (e.g., secret key, address) to function. Configure your wallet details in the **`config.json`** file or via environment variables as instructed in the bot documentation.
-
-3. **Run the Bot**:
+2. **Run the Bot**:
    - Simply double-click on the `.exe` file to start the bot.
    - The bot will automatically begin performing DCA operations on the specified tokens.
 
-4. **Customize DCA Intervals**:
+3. **Customize DCA Intervals**:
    - The bot runs on a schedule. You can customize the intervals at which buy/sell operations are performed by editing the settings in the configuration file or script.
 
-5. **Monitor the Bot**:
+4. **Monitor the Bot**:
    - The bot will display real-time information in the console, showing the status of trades, liquidity, and other relevant details.
 
 ---
@@ -61,7 +60,7 @@ For full license terms, see [LICENSE.md](LICENSE.md).
 
 ## Support & Contributions
 
-While contributions are not currently accepted for this project, you can reach out for support or clarification by contacting us at [contact@moonfex.xyz](mailto:contact@moonfex.xyz).
+While contributions are not currently accepted for this project, you can reach out for support or clarification by contacting us at [contact@moonfex.xyz](mailto:luc@moonfex.xyz).
 
 ---
 
@@ -79,7 +78,7 @@ By using this bot, you acknowledge that you understand the risks associated with
 ---
 
 ## Contact
-For inquiries or more information, contact us at [contact@moonfex.xyz](mailto:contact@moonfex.xyz).
+For inquiries or more information, contact us at [luc@moonfex.xyz](mailto:luc@moonfex.xyz).
 
 ---
 
