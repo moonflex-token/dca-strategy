@@ -24,7 +24,7 @@ You are granted a **non-exclusive, non-transferable**, and **revocable** license
 This license will terminate automatically if you fail to comply with any of the above terms. Upon termination, you must immediately cease all use of the Bot and delete any copies of it from your system.
 
 ## Contact
-If you have any questions about this license or need to contact the author for permission, you can reach out to us at luc@moonfex.xyz
+If you have any questions about this license or need to contact the author for permission, you can reach out to us at [contact@moonfex.xyz](mailto:contact@moonfex.xyz).
 
 ---
 
